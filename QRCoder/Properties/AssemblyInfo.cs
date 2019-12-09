@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("www.code-bude.net")]
 [assembly: AssemblyProduct("QRCoder")]
-[assembly: AssemblyCopyright("Free to use (MIT license)")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("written by Raffael Herrmann")]
 [assembly: AssemblyCulture("")]
 
