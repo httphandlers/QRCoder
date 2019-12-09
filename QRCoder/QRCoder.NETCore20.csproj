@@ -17,6 +17,7 @@
 	<AssemblyName>QRCoder</AssemblyName>
 	<RootNamespace>QRCoder</RootNamespace>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<PackageProjectUrl>https://github.com/httphandlers/QRCoder</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
